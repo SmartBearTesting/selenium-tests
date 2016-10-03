@@ -1,0 +1,17 @@
+{
+  "name": "festivalscope-selenium-tests",
+  "version": "1.0.0",
+  "description": "Cross Browser Testing the FestivalScope website",
+  "main": "wdio_test.js",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.0-beta-2"
+  },
+  "devDependencies": {
+    "webdriverio": "^4.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Balint Fulop",
+  "license": "ISC"
+}

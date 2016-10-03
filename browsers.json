@@ -1,0 +1,20 @@
+{
+    "IE_10" : {
+        "browser_api_name" : "IE10", 
+        "os_api_name" : "Win7x64-C2",
+        "screen_resolution" : "1024x768", 
+        "browserName" : "internet explorer"
+    },
+    "FF_46_Mac": {
+        "browser_api_name": "FF46",
+        "os_api_name": "Mac10.11", 
+        "browserName": "firefox",
+        "screen_resolution": "1024x768"
+    },
+    "GalaxyS5_Phone": {
+        "browser_api_name" : "MblChrome35", 
+        "os_api_name" : "GalaxyS5-And44", 
+        "screen_resolution" : "1080x1920",
+        "browserName" : "chrome"
+    }
+}

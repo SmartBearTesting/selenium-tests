@@ -1,4 +1,4 @@
-# Using Selenium testing with [crossbrowsertesting.com](http://crossborwsertesting.com)
+# Using Selenium testing with [crossbrowsertesting.com](http://crossbrowsertesting.com)
 
 _Thanks for Chase at Crossborwsertesting for providing me the base for this snippet!_
 
